@@ -1,2 +1,0 @@
-# MAKOS-TECH
-# MAKOS-TECH
