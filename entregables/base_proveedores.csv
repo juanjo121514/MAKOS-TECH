@@ -1,0 +1,22 @@
+id,nombre,servicio,ciudad,contacto,estado
+1,TechData Colombia,Distribucion de hardware,Bogota,comercial@techdata.co,Potencial
+2,Ingram Micro,Mayorista tecnologia,Bogota,ventas@ingrammicro.co,Potencial
+3,Compudemano,Equipos Apple y accesorios,Medellin,contacto@compudemano.com,Contactado
+4,Ktronix Empresas,Electronica y tecnologia,Bogota,empresas@ktronix.com,Potencial
+5,Alkosto Mayorista,Electro y tecnologia,Bogota,mayorista@alkosto.com,Potencial
+6,PC Smart,Portatiles y computadores,Bogota,ventas@pcsmart.com.co,Contactado
+7,Janus Technology,Soluciones TI,Bogota,info@janustech.co,Potencial
+8,Logitech Partner,Perifericos,Bogota,partners@logitech.com,Potencial
+9,Lenovo Business,Equipos empresariales,Bogota,business@lenovo.com,Potencial
+10,Dell Technologies,Equipos empresariales,Bogota,ventas@dell.com,Potencial
+11,HP Colombia,Portatiles e impresoras,Bogota,empresas@hp.com,Potencial
+12,Asus Colombia,Gaming y portatiles,Bogota,ventas@asus.com,Potencial
+13,Samsung Colombia,Smartphones y monitores,Bogota,b2b@samsung.com,Potencial
+14,Sony Audio,Audio premium,Bogota,audio@sony.com,Potencial
+15,Xiaomi Colombia,Smartphones y accesorios,Bogota,ventas@xiaomi.com,Potencial
+16,HyperX LATAM,Perifericos gaming,Bogota,latam@hyperx.com,Potencial
+17,Corsair Partner,Componentes y gaming,Medellin,partners@corsair.com,Potencial
+18,LG Business,Monitores y pantallas,Bogota,business@lg.com,Potencial
+19,Apple Reseller,Equipos premium,Bogota,ventas@resellerapple.co,Potencial
+20,Microsoft Devices,Software y dispositivos,Bogota,devices@microsoft.com,Potencial
+

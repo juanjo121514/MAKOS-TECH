@@ -1,0 +1,2 @@
+id,fecha,cliente,producto,categoria,cantidad,valor,estado,observacion
+1,2026-05-25,Cliente piloto,Sony WH-1000XM5,Audio,1,1499000,Venta piloto,Registro demostrativo para validar flujo comercial

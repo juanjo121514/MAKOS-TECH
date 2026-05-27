@@ -1,0 +1,71 @@
+id,nombre,segmento,producto_interes,ciudad,canal,estado,intencion_compra
+1,Carlos Mendoza,Profesional,Laptop,Bogota,LinkedIn,Contactado,Alta
+2,Ana Garcia,Disenadora,Monitor,Medellin,Instagram,Interesado,Alta
+3,Roberto Diaz,Gamer,Consola,Bogota,Instagram,Interesado,Alta
+4,Maria Lopez,Ingeniera,Monitor,Bogota,Referido,Contactado,Media
+5,Juan Perez,Estudiante,Laptop,Cali,Universidad,Interesado,Alta
+6,Laura Torres,Emprendedora,Smartphone,Medellin,WhatsApp,Contactado,Media
+7,Santiago Rojas,Gamer,Audifonos,Bogota,TikTok,Interesado,Alta
+8,Valentina Ruiz,Estudiante,Tablet,Bogota,Universidad,Potencial,Media
+9,Nicolas Gomez,Profesional,Mouse,Barranquilla,LinkedIn,Potencial,Media
+10,Camila Herrera,Creadora de contenido,Smartphone,Cali,Instagram,Interesado,Alta
+11,Andres Martinez,Empresa pequena,Kit oficina,Bogota,Referido,Contactado,Alta
+12,Sofia Ramirez,Estudiante,Audifonos,Medellin,Universidad,Potencial,Media
+13,Daniel Castro,Gamer,Monitor,Bogota,Instagram,Interesado,Alta
+14,Paula Vargas,Profesional,Laptop,Bucaramanga,LinkedIn,Potencial,Media
+15,Mateo Silva,Estudiante,Accesorios,Cali,WhatsApp,Potencial,Baja
+16,Juliana Morales,Disenadora,Laptop,Bogota,Instagram,Contactado,Alta
+17,Felipe Ortiz,Gamer,Teclado,Medellin,TikTok,Interesado,Media
+18,Luisa Fernandez,Profesional,Smartphone,Bogota,WhatsApp,Contactado,Media
+19,David Torres,Empresa pequena,Monitores,Bogota,LinkedIn,Interesado,Alta
+20,Isabella Rios,Estudiante,Laptop,Cartagena,Universidad,Potencial,Media
+21,Esteban Navarro,Gamer,Consola,Cali,Instagram,Interesado,Alta
+22,Manuela Cardenas,Creadora de contenido,Audifonos,Bogota,Instagram,Contactado,Alta
+23,Kevin Moreno,Estudiante,Mouse,Medellin,Universidad,Potencial,Baja
+24,Daniela Pena,Profesional,Tablet,Bogota,LinkedIn,Potencial,Media
+25,Juan Camilo Arias,Emprendedor,Laptop,Cali,WhatsApp,Contactado,Alta
+26,Natalia Acosta,Disenadora,Monitor,Bogota,Instagram,Interesado,Alta
+27,Sebastian Leon,Gamer,PC gamer,Medellin,TikTok,Interesado,Alta
+28,Mariana Suarez,Estudiante,Smartphone,Bogota,Universidad,Potencial,Media
+29,Jorge Castillo,Empresa pequena,Kit oficina,Barranquilla,LinkedIn,Contactado,Alta
+30,Carolina Mejia,Profesional,Audifonos,Bogota,WhatsApp,Potencial,Media
+31,Oscar Molina,Gamer,Monitor,Cali,Instagram,Interesado,Alta
+32,Paola Gutierrez,Creadora de contenido,Smartphone,Medellin,Instagram,Contactado,Alta
+33,Samuel Jimenez,Estudiante,Laptop,Bogota,Universidad,Interesado,Alta
+34,Laura Sanchez,Profesional,Mouse,Bogota,LinkedIn,Potencial,Media
+35,Diego Munoz,Emprendedor,Tablet,Cali,WhatsApp,Potencial,Media
+36,Andrea Vega,Disenadora,Laptop,Medellin,Instagram,Interesado,Alta
+37,Brayan Romero,Gamer,Audifonos,Bogota,TikTok,Interesado,Media
+38,Valeria Castro,Estudiante,Accesorios,Bucaramanga,Universidad,Potencial,Baja
+39,Miguel Angel Torres,Empresa pequena,Monitores,Bogota,LinkedIn,Contactado,Alta
+40,Sara Pineda,Profesional,Smartphone,Cali,WhatsApp,Potencial,Media
+41,Jose Ramirez,Gamer,Teclado,Medellin,Instagram,Interesado,Media
+42,Lucia Hernandez,Creadora de contenido,Laptop,Bogota,Instagram,Contactado,Alta
+43,Martin Salazar,Estudiante,Tablet,Cartagena,Universidad,Potencial,Media
+44,Daniela Rojas,Profesional,Monitor,Bogota,LinkedIn,Interesado,Alta
+45,Juan Esteban Mora,Emprendedor,Kit oficina,Cali,Referido,Contactado,Alta
+46,Melissa Ospina,Disenadora,Audifonos,Medellin,Instagram,Potencial,Media
+47,Alvaro Cifuentes,Gamer,Consola,Bogota,TikTok,Interesado,Alta
+48,Emily Duarte,Estudiante,Laptop,Bogota,Universidad,Interesado,Alta
+49,Pedro Alvarez,Empresa pequena,Portatiles,Barranquilla,LinkedIn,Contactado,Alta
+50,Monica Restrepo,Profesional,Smartphone,Medellin,WhatsApp,Potencial,Media
+51,Richard Moreno,Gamer,Monitor,Cali,Instagram,Interesado,Alta
+52,Eliana Torres,Creadora de contenido,Tablet,Bogota,Instagram,Potencial,Media
+53,Fabian Gomez,Estudiante,Audifonos,Medellin,Universidad,Potencial,Media
+54,Claudia Jimenez,Profesional,Laptop,Bogota,LinkedIn,Contactado,Alta
+55,Raul Martinez,Emprendedor,Smartphone,Cali,WhatsApp,Potencial,Media
+56,Angie Vargas,Disenadora,Monitor,Bogota,Instagram,Interesado,Alta
+57,Julian Pardo,Gamer,PC gamer,Medellin,TikTok,Interesado,Alta
+58,Lina Cardenas,Estudiante,Accesorios,Bogota,Universidad,Potencial,Baja
+59,Hector Rivera,Empresa pequena,Kit oficina,Bogota,Referido,Contactado,Alta
+60,Diana Fajardo,Profesional,Audifonos,Cali,WhatsApp,Potencial,Media
+61,Cristian Lopez,Gamer,Teclado,Medellin,Instagram,Interesado,Media
+62,Marcela Ruiz,Creadora de contenido,Smartphone,Bogota,Instagram,Contactado,Alta
+63,Tomás Bernal,Estudiante,Laptop,Bogota,Universidad,Interesado,Alta
+64,Adriana Parra,Profesional,Tablet,Barranquilla,LinkedIn,Potencial,Media
+65,Eduardo Nieto,Emprendedor,Monitores,Cali,WhatsApp,Contactado,Alta
+66,Vanessa Gil,Disenadora,Laptop,Medellin,Instagram,Interesado,Alta
+67,Kevin Sarmiento,Gamer,Consola,Bogota,TikTok,Interesado,Alta
+68,Paula Andrea Molina,Estudiante,Smartphone,Bucaramanga,Universidad,Potencial,Media
+69,Fernando Cortes,Empresa pequena,Portatiles,Bogota,LinkedIn,Contactado,Alta
+70,Mariana Cespedes,Profesional,Mouse,Cali,WhatsApp,Potencial,Media
